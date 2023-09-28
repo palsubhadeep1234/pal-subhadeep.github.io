@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+<!--## About Me
 
-<!--I am a Ph.D. student at ...
+I am a Ph.D. student at ...
 
 ## Research Interests
 
