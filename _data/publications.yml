@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: A catch bond mechanism with looped adhesive tethers for self-strengthening materials
+    authors: Kerim C. Dansuk,<strong>Subhadeep Pal</strong>, Sinan Keten
+    journal_short: Nat Commun Mater
+    journal: Nature Communications Materials, 2023.
+    pdf: https://doi.org/10.1038/s43246-023-00387-y
+    code: https://github.com/keten-group/2tethermodel
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Figure1.PNG
+    # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
