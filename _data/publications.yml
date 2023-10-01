@@ -31,3 +31,35 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/TOC-sk.png
+
+  - title: "Strain energy density based effective potential for polymer grafted spherical nanoparticles"
+    authors: Kerim C. Dansuk, <strong>Subhadeep Pal</strong>, Sinan Keten
+    # journal_short: Nat Commun Mater
+    conference: Nature Communications Materials, 2023.
+    pdf: https://doi.org/10.1038/s43246-023-00387-y
+    code: https://github.com/keten-group/2tethermodel
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Figure1.PNG
+    # notes: Early Accept
+
+  - title: "Predicting the Effect of Hardener Composition on the Mechanical and Fracture Properties of Epoxy Resins Using Molecular Modeling"
+    authors: <strong>Subhadeep Pal</strong>, Kerim Dansuk, Andrea Giuntoli, Timothy W. Sirk, Sinan Keten
+    # journal_short: CVPR
+    conference: Macromolecules, 2023.
+    pdf: https://doi.org/10.1021/acs.macromol.2c02577
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/Graphical_TOC.png
+
+  - title: "Implicit Chain Particle Model for Polymer-Grafted Nanoparticles"
+    authors: Zhenghao Wu, <strong>Subhadeep Pal</strong>, Sinan Keten
+    # journal_short: CVPR
+    conference: Macromolecules, 2023.
+    pdf: https://doi.org/10.1021/acs.macromol.2c02272
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/TOC-sk.png
